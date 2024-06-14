@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gauthier</h1>
-<h3 align="center">A Data Scientist working as a Consultant from Belgium</h3>
+<h3 align="center">A Data Scientist working as a consultant from Belgium</h3>
 
 
-- 🔭 I’m currently working at **Effixis**
+- 🔭 I’m currently working at [**Effixis**](https://effixis.ch)
 
 - 📫 How to reach me **gheroufosse@gmail.com**
 
